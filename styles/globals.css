@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 10px;
+  background: #ff0055;
+  transform-origin: 0%;
+}
+.main-section-bg-dark {
+  background: linear-gradient(130.68deg, #414141 0%, #2d2d2d 100.52%);
+}
